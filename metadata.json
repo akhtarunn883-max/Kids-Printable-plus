@@ -1,0 +1,6 @@
+{
+  "name": "PrintPlay Kids - Printable Coloring & Activity Library",
+  "description": "Library of printable coloring pages, worksheets, and activity sheets for children ages 3–10. Download PDF, print, or color digitally.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
